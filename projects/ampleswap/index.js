@@ -1,7 +1,7 @@
 const { staking } = require("../helper/staking");
 
-const MasterChefContract = "0xeb642d600bf593cb21e1551e9a15426ff6d42f82";
-const AMPLE = "0x335f6e0e804b70a96bf9eb8af31588942e9b2515";
+const MasterChefContract = "0xf5987603323aa99dde0777a55e83c82d59cca272";
+const AMPLE = "0x19857937848c02afbde8b526610f0f2f89e9960d";
 
 // node test.js projects/ampleswap/index.js
 
